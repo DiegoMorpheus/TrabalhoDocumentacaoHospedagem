@@ -1,0 +1,21 @@
+{
+  "name": "documentos-categorias",
+  "version": "1.0.0",
+  "description": "API REST desenvolvida em **Spring Boot 3.5.7** para gerenciamento de **categorias** e **documentos**, utilizando arquitetura em camadas, banco de dados H2/PostgreSQL e documentação automática com Swagger/OpenAPI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoMorpheus/TrabalhoDocumentacaoHospedagem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DiegoMorpheus/TrabalhoDocumentacaoHospedagem/issues"
+  },
+  "homepage": "https://github.com/DiegoMorpheus/TrabalhoDocumentacaoHospedagem#readme"
+}
